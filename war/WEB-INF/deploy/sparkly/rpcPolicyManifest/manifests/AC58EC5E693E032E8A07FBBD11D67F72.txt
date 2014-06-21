@@ -1,0 +1,2 @@
+serviceClass: com.sparkly.foodtruck.client.GreetingService
+path: DD5198CFF3C60B9A1EDB0B67AAFE9F3D.gwt.rpc

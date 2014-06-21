@@ -1,0 +1,3 @@
+# Module sparkly
+# RPC service class, partial path of RPC policy file
+com.sparkly.foodtruck.client.GreetingService, DD5198CFF3C60B9A1EDB0B67AAFE9F3D.gwt.rpc
